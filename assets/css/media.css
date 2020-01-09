@@ -2,6 +2,9 @@
     body{
         font-size: .7em;
     }
+    .logo{
+        margin-left: auto;
+    }
     h1{
         font-size: 3em !important;
         letter-spacing: 2px !important;
@@ -15,6 +18,9 @@
 @media (min-width: 576px) and (max-width: 767.98px) {
     body{
         font-size: .9em;
+    }
+    .logo{
+        margin-left: auto;
     }
     h1{
         font-size: 3.5em !important;

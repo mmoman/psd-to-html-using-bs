@@ -7,6 +7,10 @@ body{
 .box{
     padding: 25px 0;
 }
+/***Navigation Section****/
+.logo{
+    margin-left: 40%;
+}
 
 /****Hero Section****/
 .hero-section{
