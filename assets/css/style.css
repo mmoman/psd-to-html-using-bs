@@ -16,6 +16,9 @@ body{
 .no-margin{
     margin: 0;
 }
+a:hover{
+	text-decoration:none;
+}
 /***Navigation Section****/
 .logo{
     margin-left: 60%;
